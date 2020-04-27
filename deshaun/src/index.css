@@ -19,4 +19,16 @@ code {
 
 .about-text{
   text-align:center;
+  float:right;
+  margin:auto;
 }
+
+.about-pic{
+  margin:auto;
+  height:70%;
+  width:25%;
+}
+
+/* .about-bg{
+  background-color: rgb(226, 43, 171);
+} */
