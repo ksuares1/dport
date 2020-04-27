@@ -5,6 +5,8 @@ import AboutPage from "../components/About";
 const AboutComponent = () => {
     return (
         <main className="about-bg">
+            <br>
+            </br>
             <AboutPage/>
            
         </main>

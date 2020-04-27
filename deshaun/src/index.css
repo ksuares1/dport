@@ -19,8 +19,8 @@ code {
 
 .about-text{
   text-align:center;
-  float:right;
-  margin:auto;
+  float:left;
+  position:fixed;
 }
 
 .about-pic{
