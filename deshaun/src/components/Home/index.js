@@ -1,5 +1,5 @@
 import React from "react";
-
+import { MDBBtn } from "mdbreact";
 
 
 const HomePage=() => {
@@ -7,6 +7,7 @@ const HomePage=() => {
         <div >
             
          <img src={require("../../assets/img/deshaun-home.png")} alt=" Deshaun" />  
+         <MDBBtn gradient="purple">Welcome</MDBBtn>
         </div>
     )
 }
