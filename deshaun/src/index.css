@@ -12,6 +12,13 @@ code {
     monospace;
 }
 
+/* Homepage */
+.home-pic{
+text-align:center;
+margin:auto;
+float:right;
+}
+
 /* About Page */
 .about-container{
   text-align:center;
@@ -27,6 +34,7 @@ code {
   margin:auto;
   height:70%;
   width:25%;
+
 }
 
 /* .about-bg{
