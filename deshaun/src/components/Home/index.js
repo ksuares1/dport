@@ -9,7 +9,34 @@ const HomePage=() => {
          <img className="home-pic" src={require("../../assets/img/deshaun-home.png")}  width="1000px" alt=" Deshaun" />  
         
          <div>
-          <MDBBtn href="/about" gradient="purple">Welcome</MDBBtn> 
+             <br>
+             </br>
+             <br>
+             </br>
+             <br>
+             </br>
+             <br>
+             </br>
+             <br>
+             </br>
+             <br>
+             </br> <br>
+             </br>
+             <br>
+             </br> <br>
+             </br>
+             <br>
+             </br> <br>
+             </br>
+             <br>
+             </br> <br>
+             </br>
+             <br>
+             </br> <br>
+             </br>
+             <br>
+             </br>
+          <MDBBtn className="text-align:center" href="/about" gradient="purple">Welcome</MDBBtn> 
           </div>
         </main>
     )
