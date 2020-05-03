@@ -17,7 +17,7 @@ function NavBar() {
             <Nav.Link href="/about">About</Nav.Link>
              <Nav.Link href="/press">Press</Nav.Link> 
              <Nav.Link href="/contact">Contact</Nav.Link> 
-            <NavDropdown title="Schedule" id="basic-nav-dropdown">
+            <NavDropdown href="/schedule" title="Schedule" id="basic-nav-dropdown">
               <NavDropdown.Item href="/booking">Booking</NavDropdown.Item>
               <NavDropdown.Item href="/schedule">Schedule</NavDropdown.Item>
               <NavDropdown.Item href="/flute">Flute Repairs</NavDropdown.Item>
