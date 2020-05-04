@@ -6,7 +6,7 @@ const SchedulePage = () => {
     <MDBJumbotron fluid>
       <MDBContainer>
         <h2 className="text-align:center display-4">Schedule a consultation today!</h2>
-        <p className="text-align:center lead"> Finding the right instructor is the key to musical sucess!</p>
+        <p className="text-align:center lead"> Finding the right instructor is the key to your musical sucess!</p>
       </MDBContainer>
     </MDBJumbotron>
   )
