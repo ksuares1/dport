@@ -49,15 +49,19 @@ float:right;
 
 .flute-wrapper{
   text-align:center;
+  width:50%;
+  height:50%;
+  margin:0 auto;
 }
 
 .flute-head{
   color:blue;
   font-weight:bold;
+  font-size: 70px;
 }
 
 .flute-text{
-  color:black;
+  color:blue;
   font-weight: bold;
 }
 
