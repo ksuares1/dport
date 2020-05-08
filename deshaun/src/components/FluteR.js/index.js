@@ -19,13 +19,15 @@ const FlutePage = () => {
       <br>
       </br>
 
-      <MDBContainer>
+      <MDBContainer className="flute-form">
         <MDBRow>
           <MDBCol md="6">
             <form>
-            <p className="flute-form h4 text-center mb-4">Flute Repair Shop</p>
-              <p className="flute-form"> Harmony is the key to your musicial success.</p> 
-                <p className="flute-form">Let me help you make the necessary repairs to your instrument.</p>
+            <p className="h4 text-center mb-4">Flute Repair Shop</p>
+              <p> Harmony is the key to your musicial success.</p> 
+                <p>Let me help you make the necessary repairs to your instrument.</p>
+              <br>
+              </br>
               <label htmlFor="defaultFormContactNameEx" className="grey-text">
                 Your name
         </label>
@@ -58,7 +60,7 @@ const FlutePage = () => {
       );
     };
 
-    export default FormPage;
+    export default FPage;
 
     </main>
   )
