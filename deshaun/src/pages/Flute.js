@@ -4,7 +4,11 @@ import FlutePage from "../components/FluteR.js";
 
 const FluteRepairs= () =>{
     return(
+        <div>
+        <br>
+        </br>
         <FlutePage/>
+        </div>
     )
 
 }
