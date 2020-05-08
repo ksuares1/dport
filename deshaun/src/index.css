@@ -28,12 +28,13 @@ float:right;
   text-align:center;
   float:right;
   position:fixed;
+  font-size: 12;
 }
 
 .about-pic{
   margin:auto;
-  height:70%;
-  width:25%;
+  height:350px;
+  width: 350px;
 
 }
 
