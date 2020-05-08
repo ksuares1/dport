@@ -50,3 +50,19 @@ float:right;
 .flute-wrapper{
   text-align:center;
 }
+
+.flute-head{
+  color:blue;
+  font-weight:bold;
+}
+
+.flute-text{
+  color:black;
+  font-weight: bold;
+}
+
+.flute-secline{
+  color:black;
+  font-weight:bold;
+  font-size:15;
+}
