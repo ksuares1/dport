@@ -7,6 +7,7 @@ import HomeComponent from './pages/Home';
 import AboutComponent from './pages/About';
 import FluteRepairs from './pages/Flute';
 import ScheduleComponent from './pages/Schedule';
+// import HomePage from './components/Home';
 
 
 function App() {
@@ -14,7 +15,7 @@ function App() {
     <div>
       <Router>
         <div>
-           <Navbar /> 
+            <Navbar />  
           <div>
             <Route exact path="/" component={HomeComponent} />
             <Route exact path="/about" component={AboutComponent} />
