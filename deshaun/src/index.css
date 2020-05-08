@@ -55,7 +55,7 @@ float:right;
 }
 
 .flute-head{
-  color:blue;
+  color:black;
   font-weight:bold;
   font-size: 70px;
 }
@@ -69,4 +69,8 @@ float:right;
   color:black;
   font-weight:bold;
   font-size:15;
+}
+
+.flute-form{
+  text-align:center;
 }
