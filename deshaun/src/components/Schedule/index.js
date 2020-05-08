@@ -3,10 +3,10 @@ import { MDBJumbotron, MDBContainer } from "mdbreact";
 
 const SchedulePage = () => {
   return (
-    <MDBJumbotron fluid>
+    <MDBJumbotron className="schedule-wrapper" fluid>
       <MDBContainer>
-        <h2 className="text-align:center display-4">Schedule a consultation today!</h2>
-        <p className="text-align:center lead"> Finding the right instructor is the key to your musical sucess!</p>
+        <h2 className="display-4">Schedule a consultation today!</h2>
+        <p className="lead"> Finding the right instructor is the key to your musical sucess!</p>
       </MDBContainer>
     </MDBJumbotron>
   )

@@ -1,20 +1,18 @@
 import React from "react";
-import Jumbotron from "react-bootstrap/Jumbotron";
-import Container from "react-bootstrap/Container";
+import { MDBJumbotron, MDBContainer } from "mdbreact";
 
-
-function FlutePage() {
-  return (
-    <Jumbotron fluid>
-      
-      <Container>
-        <h1>Flute Repairs</h1>
-        <p>
-         Let me help you get in tune! Harmony is the key to your musicial successs.
-    </p>
-      </Container>
-    </Jumbotron>
-  )
-}
-
-export default FlutePage;
+  
+    const FlutePage = () => {
+      return (
+        <MDBJumbotron className="flute-wrapper" fluid>
+          <MDBContainer>
+            <h2 className="display-4">Flute Repairs</h2>
+            <p className="lead">Harmony is the key to your musicial successs. Let me help you get in tune!</p>
+          </MDBContainer>
+        </MDBJumbotron>
+      )
+    }
+    
+    export default FlutePage;
+    
+    

@@ -21,12 +21,6 @@ function App() {
             <Route exact path="/about" component={AboutComponent} />
             <Route exact path="/flute" component={FluteRepairs} />
              <Route exact path="/schedule" component={ScheduleComponent} />
-            {/* <Route exact path="/patients" component={Patients} /> */}
-            {/* <Route exact path="/nurse" component={LoginPage} />
-            <Route exact path="/login" component={LoginPage} />
-            <Route exact path="/signup" component={SignComponent} /> */} 
-            {/* <Route exact path="/readygo" component={showMic} /> */}
-             {/* <Route exact path="/patients/:id" component={Detail} /> */}
 
           </div>
         </div>
