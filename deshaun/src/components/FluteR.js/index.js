@@ -11,7 +11,7 @@ const FlutePage = () => {
     <main>
     <MDBJumbotron className="flute-wrapper"style={{ backgroundImage: `url(${flute})` }} fluid>
       <MDBContainer className="flute-head" overlay="grey-light">
-        <h2 className="display-4">Flute Repairs</h2>
+        <h2 className="display-4">Flute Repair Shop</h2>
       </MDBContainer>
     </MDBJumbotron>
   
@@ -24,7 +24,7 @@ const FlutePage = () => {
         <MDBRow>
           <MDBCol md="6">
             <form>
-            <p className="h4 text-center mb-4">Flute Repair Shop</p>
+            <p className="h4 text-center mb-4">Repair Form</p>
               <p> Harmony is the key to your musicial success.</p> 
                 <p>Let me help you make the necessary repairs to your instrument.</p>
               <br>
