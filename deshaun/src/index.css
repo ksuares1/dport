@@ -49,9 +49,9 @@ float:right;
 
 .flute-wrapper{
   text-align:center;
-  width:50%;
+  /* width:50%;
   height:50%;
-  margin:0 auto;
+  margin:0 auto; */
 }
 
 .flute-head{
@@ -74,4 +74,5 @@ float:right;
 .flute-form{
   text-align:center;
   float:right;
+  margin:auto;
 }

@@ -10,7 +10,7 @@ const FlutePage = () => {
     <main>
       <Jumbotron className="flute-wrapper" style={{ backgroundImage: `url(${flute})` }} fluid>
         <Container>
-          <h1 className="flute-head">Flute Repairs</h1>
+          <h1 className="flute-head" overlay="grey-light">Flute Repairs</h1>
         </Container>
       </Jumbotron>
 
@@ -48,8 +48,8 @@ const FlutePage = () => {
         </label>
               <textarea type="text" id="defaultFormContactMessageEx" className="form-control" rows="3" />
               <div className="text-center mt-4">
-                <MDBBtn color="warning" outline type="submit">
-                  Send
+                <MDBBtn color="info" outline type="submit">
+                  Sumbit
                     <MDBIcon far icon="paper-plane" className="ml-2" />
                 </MDBBtn>
               </div>
@@ -57,11 +57,6 @@ const FlutePage = () => {
           </MDBCol>
         </MDBRow>
       </MDBContainer>
-      );
-    };
-
-    export default FPage;
-
     </main>
   )
 }
