@@ -1,19 +1,20 @@
 import React from "react";
 import flute from '../../assets/img/music-sheet.png';
-import Jumbotron from 'react-bootstrap/Jumbotron';
-import Container from 'react-bootstrap/Container';
-import { MDBContainer, MDBRow, MDBCol, MDBBtn, MDBIcon } from 'mdbreact';
+// import Jumbotron from 'react-bootstrap/Jumbotron';
+// import Container from 'react-bootstrap/Container';
+import { MDBJumbotron, MDBContainer } from "mdbreact";
+import { MDBRow, MDBCol, MDBBtn, MDBIcon } from 'mdbreact';
 
 
 const FlutePage = () => {
   return (
     <main>
-      <Jumbotron className="flute-wrapper" style={{ backgroundImage: `url(${flute})` }} fluid>
-        <Container>
-          <h1 className="flute-head" overlay="grey-light">Flute Repairs</h1>
-        </Container>
-      </Jumbotron>
-
+    <MDBJumbotron className="flute-wrapper"style={{ backgroundImage: `url(${flute})` }} fluid>
+      <MDBContainer className="flute-head" overlay="grey-light">
+        <h2 className="display-4">Flute Repairs</h2>
+      </MDBContainer>
+    </MDBJumbotron>
+  
       <br>
       </br>
       <br>
