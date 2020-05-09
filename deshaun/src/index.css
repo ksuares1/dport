@@ -80,3 +80,9 @@ float:right;
   float:right;
   margin:auto;
 }
+.schedule{
+  background-color:white;
+  margin:auto;
+  width: 45%;
+  height:50%;
+}
