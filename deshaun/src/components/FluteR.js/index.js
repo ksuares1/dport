@@ -47,7 +47,7 @@ const FlutePage = () => {
               <textarea type="text" id="defaultFormContactMessageEx" className="form-control" rows="3" />
               <div className="text-center mt-4">
                 <MDBBtn color="info" outline type="submit">
-                  Sumbit
+                  Submit
                     <MDBIcon far icon="paper-plane" className="ml-2" />
                 </MDBBtn>
               </div>
