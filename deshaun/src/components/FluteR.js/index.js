@@ -17,9 +17,6 @@ const FlutePage = () => {
   
       <br>
       </br>
-      <br>
-      </br>
-
       <MDBContainer className="flute-form">
         <MDBRow>
           <MDBCol md="6">
