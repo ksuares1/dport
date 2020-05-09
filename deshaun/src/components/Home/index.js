@@ -1,12 +1,13 @@
 import React from "react";
-import { MDBBtn } from "mdbreact";
-
+// import { MDBBtn } from "mdbreact";
+import deshaun from '../../assets/img/deshaun-home.png';
 
 function HomePage() {
     return(
         // <div styles={{backgroundImage:`url (${deshaun-home})`}}>
-             <div>
-              <img className="home-pic" src={require("../../assets/img/deshaun-home.png")}  width="1000px" alt=" Deshaun" />  
+             <div
+              style={{backgroundImage: `url(${deshaun})`}}>
+              {/* <img className="home-pic" src={require("../../assets/img/deshaun-home.png")}  width="1000px" alt=" Deshaun" />   */}
         
              <br>
              </br>
@@ -35,9 +36,9 @@ function HomePage() {
              </br>
              <br>
              </br>
-          <MDBBtn className="text-align:center" href="/about" gradient="purple">Welcome</MDBBtn> 
+          {/* <MDBBtn className="text-align:center" href="/about" gradient="purple">Welcome</MDBBtn>  */}
           
-        </div>
+       </div>
     )
 }
 

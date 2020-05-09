@@ -21,6 +21,7 @@ function NavBar() {
               <NavDropdown.Item href="/booking">Booking</NavDropdown.Item>
               <NavDropdown.Item href="/schedule">Schedule</NavDropdown.Item>
               <NavDropdown.Item href="/flute">Flute Repairs</NavDropdown.Item>
+              <NavDropdown.Item href="/blog">Blog</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="/Contact"></NavDropdown.Item>
             </NavDropdown>
