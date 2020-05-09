@@ -58,6 +58,10 @@ float:right;
   color:black;
   font-weight:bold;
   font-size: 70px;
+  background-color:white;
+  margin:auto;
+  width: 45%;
+  height:50%;
 }
 
 .flute-text{
