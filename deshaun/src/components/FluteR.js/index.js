@@ -20,7 +20,7 @@ const FlutePage = () => {
       <MDBContainer className="flute-form">
         <MDBRow>
           <MDBCol md="6">
-            <form>
+            <form className="text-align:center">
             <p className="h4 text-center mb-4">Repair Form</p>
               <p> Harmony is the key to your musicial success.</p> 
                 <p>Let me help you make the necessary repairs to your instrument.</p>

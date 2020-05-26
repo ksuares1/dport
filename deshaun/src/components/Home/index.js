@@ -4,7 +4,8 @@ import { MDBBtn } from "mdbreact";
 
 function HomePage() {
     return(
-            //  <div style={{backgroundImage: `url(${deshaun})`}}>
+            //   <div styles={{backgroundImage:`url(${deshaun})`}}>
+                //   </div>
             <div>
             <img className="home-pic" src={require("../../assets/img/deshaun-home.png")}  width="1000px" alt=" Deshaun" />  
              <br>

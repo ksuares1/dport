@@ -8,6 +8,7 @@ import AboutComponent from './pages/About';
 import FluteRepairs from './pages/Flute';
 import ScheduleComponent from './pages/Schedule';
 // import HomePage from './components/Home';
+import ContactPage from './components/Contact';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
             <Route exact path="/" component={HomeComponent} />
             <Route exact path="/about" component={AboutComponent} />
             <Route exact path="/flute" component={FluteRepairs} />
+            <Route exact path="/contact" component={ContactPage} />
              <Route exact path="/schedule" component={ScheduleComponent} />
 
           </div>
