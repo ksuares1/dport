@@ -10,7 +10,10 @@ function ContactComponent() {
         <br>
         </br>
         <h1 className="contact-header">Contact Me</h1>
+        <div>
         <Form.Group controlId="formBasicEmail">
+            <br>
+            </br>
           <Form.Label>Name</Form.Label>
           <Form.Control className="contact-name"   type="name" placeholder="Enter Name" />
         </Form.Group>
@@ -29,6 +32,7 @@ function ContactComponent() {
             id="exampleFormControlTextarea1"
             rows="5"
           />
+        </div>
         </div>
         <Button className="button" variant="secondary" type="submit">
           Submit

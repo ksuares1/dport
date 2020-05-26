@@ -5,6 +5,8 @@ import ContactComponent from "../components/Contact";
 const ContactPage=()=>{
     return(
         <div>
+            <br>
+            </br>
             <ContactComponent/>
         </div>
     )
