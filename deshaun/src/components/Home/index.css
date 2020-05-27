@@ -6,3 +6,9 @@
     position:relative;
     top:50px;
 } */
+
+.home-btn{
+    background-color: grey;
+    color:white;
+    float:right;
+}

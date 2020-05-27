@@ -30,6 +30,11 @@ function App() {
         </div>
       </Router>
     </div>
+      //  <footer className="footer-bg">
+      //           <div className="footer-text">© 2020
+      //       <a className="footer-text" href="https://dgktheflutist.com/"> dgktheflutist.com</a>
+      //           </div>
+      //       </footer>
   );
 }
 
