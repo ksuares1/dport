@@ -1,4 +1,5 @@
 import React from "react";
+import "./index.css";
 import flute from '../../assets/img/music-sheet.png';
 // import Jumbotron from 'react-bootstrap/Jumbotron';
 // import Container from 'react-bootstrap/Container';

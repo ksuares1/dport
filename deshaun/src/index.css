@@ -19,24 +19,7 @@ margin:auto;
 float:right;
 }
 
-/* About Page */
-.about-container{
-  text-align:center;
-}
 
-.about-text{
-  text-align:center;
-  float:right;
-  position:fixed;
-  font-size: 12;
-}
-
-.about-pic{
-  margin:auto;
-  height:350px;
-  width: 350px;
-
-}
 
 /* .about-bg{
   background-color: rgb(226, 43, 171);

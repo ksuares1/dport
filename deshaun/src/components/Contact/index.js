@@ -5,12 +5,14 @@ import Button from "react-bootstrap/Button";
 
 function ContactComponent() {
     return (
-        <main>
+        <main className="contact-bg">
           <Form className="contact" >
         <br>
         </br>
-        <h1 className="contact-header">Contact Me</h1>
         <div>
+            <br>
+            </br>
+        <h1 className="contact-header">Contact Me</h1>
         <Form.Group controlId="formBasicEmail">
             <br>
             </br>
@@ -38,7 +40,6 @@ function ContactComponent() {
           Submit
   </Button>
       </Form>
-
         </main>
     )
 }

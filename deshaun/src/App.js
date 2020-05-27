@@ -9,6 +9,7 @@ import FluteRepairs from './pages/Flute';
 import ScheduleComponent from './pages/Schedule';
 // import HomePage from './components/Home';
 import ContactPage from './components/Contact';
+import BlogComponent from './components/Blog';
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
             <Route exact path="/flute" component={FluteRepairs} />
             <Route exact path="/contact" component={ContactPage} />
              <Route exact path="/schedule" component={ScheduleComponent} />
+             <Route exact path="/blog" component={BlogComponent} />
 
           </div>
         </div>
