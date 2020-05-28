@@ -12,6 +12,8 @@ function ContactComponent() {
         <div>
             <br>
             </br>
+            <br>
+            </br>
         <h1 className="contact-header">Contact Me</h1>
         <Form.Group controlId="formBasicEmail">
             <br>
