@@ -10,5 +10,6 @@
 .home-btn{
     background-color: grey;
     color:white;
-    float:right;
+    float:right; 
+    /* text-align: center; */
 }
