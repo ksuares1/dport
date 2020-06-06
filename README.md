@@ -18,5 +18,7 @@ This a portfolio website for a professional flute player.
 
 ## Technologies
 - React.js
--Node.js
--Ajax
+
+- Node.js
+
+- Ajax
