@@ -24,6 +24,12 @@ This application is built using Bootstrap, React Bootstrap, and MDReact, these l
 
 - React.js
 
+-Bootstrap
+
+-React 
+
+-MDBreact
+
 - Node.js
 
 - Ajax
