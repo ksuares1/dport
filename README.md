@@ -24,11 +24,11 @@ This application is built using Bootstrap, React Bootstrap, and MDReact, these l
 
 - React.js
 
--Bootstrap
+- Bootstrap
 
--React 
+- React 
 
--MDBreact
+- MDBreact
 
 - Node.js
 
