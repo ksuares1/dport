@@ -19,6 +19,7 @@ Before launching your code for this application, install the following node libr
 ```npm install --save mdbreact ```
 
 ## Getting Started
+This application is built using Bootstrap, React Bootstrap, and 
 
 ## Technologies
 - React.js
