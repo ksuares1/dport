@@ -20,16 +20,16 @@ Before launching your code for this application, install the following node libr
 ```npm install --save mdbreact ```
 
 ## Technologies
-This application is built using Bootstrap, React Bootstrap, and MDReact, these libraries have rules set out in their documentation that you must follow, if your going to build this application. 
+This application is built using Bootstrap, React Bootstrap, and MDReact, these libraries have guidelines in their documentation that you must follow, if you're going to build this application. 
 
-- React.js: https://github.com/facebook/create-react-app
+- **React.js**: https://github.com/facebook/create-react-app
 
-- Bootstrap: https://getbootstrap.com/docs/4.5/getting-started/introduction/
+- **Bootstrap**: https://getbootstrap.com/docs/4.5/getting-started/introduction/
 
-- Reactstrap:  https://reactstrap.github.io/
+- **Reactstrap**:  https://reactstrap.github.io/
 
-- MDBreact: https://mdbootstrap.com/docs/react/
+- **MDBreact**: https://mdbootstrap.com/docs/react/
 
-- Node.js: https://mdbootstrap.com/docs/react/
+- **Node.js**: https://mdbootstrap.com/docs/react/
 
-- Ajax
+- **Ajax**
