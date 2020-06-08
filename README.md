@@ -16,6 +16,8 @@ This a portfolio website created with React.js for a professional flute player.
 
 ```npm install --save mdbreact ```
 
+## Getting Started
+
 ## Technologies
 - React.js
 
