@@ -22,14 +22,14 @@ Before launching your code for this application, install the following node libr
 ## Technologies
 This application is built using Bootstrap, React Bootstrap, and MDReact, these libraries have rules set out in their documentation that you must follow, if your going to build this application. 
 
-- React.js
+- React.js: https://github.com/facebook/create-react-app
 
-- Bootstrap
+- Bootstrap: https://getbootstrap.com/docs/4.5/getting-started/introduction/
 
-- React 
+- Reactstrap:  https://reactstrap.github.io/
 
-- MDBreact
+- MDBreact: https://mdbootstrap.com/docs/react/
 
-- Node.js
+- Node.js: https://mdbootstrap.com/docs/react/
 
 - Ajax
